@@ -39,3 +39,5 @@ chmod +x compile_packages.sh
 ./compile_packages.sh
 
 # se for usar novamente depois de um mínimo de 3 dias
+
+# testado em kernel oneui não foi testado em aosp
