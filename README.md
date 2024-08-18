@@ -28,6 +28,10 @@ pkg install git
 
 gitclone https://github.com/RaphaelStinson/compile_packages
 
+su
+
+exit
+
 cd compile_packages
 
 chmod +x compile_packages.sh
