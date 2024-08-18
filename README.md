@@ -11,6 +11,8 @@ mv compile_packages.sh ~/
 
 cd
 
+se não estiver fora do home use os comando abaixo
+
 chmod +x compile_packages.sh
 
 ./compile_packages.sh
