@@ -27,4 +27,6 @@ gitclone https://github.com/RaphaelStinson/compile_packages
 
 chmod +x compile_packages.sh
 
+su 
+
 ./compile_packages.sh
