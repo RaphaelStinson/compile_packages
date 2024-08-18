@@ -1,5 +1,8 @@
 # compile_packages
 
+instale o termux 
+
+https://f-droid.org/repo/com.termux_1020.apk
 
 Este script executa um comando que compila todos os pacotes do Android com otimização de velocidade.
 
