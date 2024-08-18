@@ -13,6 +13,10 @@ cd
 
 se não estiver fora do home use os comando abaixo
 
+pkg install git
+
+gitclone https://github.com/RaphaelStinson/compile_packages
+
 chmod +x compile_packages.sh
 
 ./compile_packages.sh
