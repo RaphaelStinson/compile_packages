@@ -26,7 +26,7 @@ termux-setup-storage
 
 pkg install git
 
-gitclone https://github.com/RaphaelStinson/compile_packages
+git clone https://github.com/RaphaelStinson/compile_packages
 
 su
 
