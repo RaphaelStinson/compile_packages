@@ -13,6 +13,14 @@ cd
 
 se não estiver fora do home use os comando abaixo
 
+no Android 14 use os comandos
+
+pkg install termux-am
+
+depois
+
+termux-setup-storage
+
 pkg install git
 
 gitclone https://github.com/RaphaelStinson/compile_packages
